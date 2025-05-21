@@ -16,5 +16,25 @@ namespace librarydb
         {
             InitializeComponent();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void overdue_books_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bookscount_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
